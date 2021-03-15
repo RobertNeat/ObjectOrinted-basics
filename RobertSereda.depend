@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1615410352 source:c:\users\elitebook\desktop\robert sereda\robertsereda\src\tdzialania.cpp
+	"Tdzialania.h"
+	<iostream>
+
+1615409987 c:\users\elitebook\desktop\robert sereda\robertsereda\include\tdzialania.h
+
+1615408855 source:c:\users\elitebook\desktop\robert sereda\robertsereda\src\tpracownik.cpp
+	"Tpracownik.h"
+	<iostream>
+
+1615408871 c:\users\elitebook\desktop\robert sereda\robertsereda\include\tpracownik.h
+	<iostream>
+
+1615410513 source:c:\users\elitebook\desktop\robert sereda\robertsereda\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+
+1615408933 c:\users\elitebook\desktop\robert sereda\robertsereda\include\tstudent.h
+	<iostream>
+
+1615410709 source:c:\users\elitebook\desktop\robert sereda\robertsereda\main.cpp
+	<iostream>
+	"Tdzialania.h"
+	"Tpracownik.h"
+	"Tstudent.h"
+
+1615410709 source:c:\users\elitebook\desktop\robertsereda\main.cpp
+	<iostream>
+	"Tdzialania.h"
+	"Tpracownik.h"
+	"Tstudent.h"
+
+1615472893 c:\users\elitebook\desktop\robertsereda\include\tdzialania.h
+
+1615408871 c:\users\elitebook\desktop\robertsereda\include\tpracownik.h
+	<iostream>
+
+1615408933 c:\users\elitebook\desktop\robertsereda\include\tstudent.h
+	<iostream>
+
+1615408855 source:c:\users\elitebook\desktop\robertsereda\src\tpracownik.cpp
+	"Tpracownik.h"
+	<iostream>
+
+1615410513 source:c:\users\elitebook\desktop\robertsereda\src\tstudent.cpp
+	"Tstudent.h"
+	<iostream>
+
+1615472985 source:c:\users\elitebook\desktop\robertsereda\src\tdzialania.cpp
+	"Tdzialania.h"
+	<iostream>
+	<cmath>
+
